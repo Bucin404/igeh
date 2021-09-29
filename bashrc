@@ -1,4 +1,4 @@
-cd /igeh
+cd igeh
 clear
 echo "(1) Buat akun instagram otomatis"
 echo "(2) Hack akun instagram"
