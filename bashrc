@@ -1,3 +1,3 @@
 cd igeh
 clear
-python igeh.py
+python create.py
